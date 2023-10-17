@@ -1,3 +1,4 @@
 //script that creates or uses the database my_db
+show dbs
 use myd_db
 
